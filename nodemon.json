@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_APP_PW":"Bhumik123",
+        "MONGO_JWT_KEY":"bmp"
+    }
+}
